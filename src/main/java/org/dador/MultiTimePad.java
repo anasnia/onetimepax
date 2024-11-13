@@ -1,7 +1,7 @@
 package org.dador;
 
 /**
- *
+ *anas nia
  */
 public class MultiTimePad {
 
